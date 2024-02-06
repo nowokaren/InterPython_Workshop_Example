@@ -1,6 +1,7 @@
 anyio @ file:///C:/b/abs_847uobe7ea/croot/anyio_1706220224037/work
 argon2-cffi @ file:///opt/conda/conda-bld/argon2-cffi_1645000214183/work
 argon2-cffi-bindings @ file:///C:/ci_311/argon2-cffi-bindings_1676424443321/work
+astroid @ file:///C:/ci_311/astroid_1678740610167/work
 astropy @ file:///C:/b/abs_2fb3x_tapx/croot/astropy_1697468987983/work
 asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
 async-lru @ file:///C:/b/abs_e0hjkvwwb5/croot/async-lru_1699554572212/work
@@ -8,12 +9,14 @@ attrs @ file:///C:/b/abs_35n0jusce8/croot/attrs_1695717880170/work
 autopep8==2.0.4
 Babel @ file:///C:/ci_311/babel_1676427169844/work
 beautifulsoup4 @ file:///C:/b/abs_0agyz1wsr4/croot/beautifulsoup4-split_1681493048687/work
+black @ file:///C:/b/abs_29gqa9a44y/croot/black_1701097690150/work
 bleach @ file:///opt/conda/conda-bld/bleach_1641577558959/work
 Bottleneck @ file:///C:/ci_311/bottleneck_1676500016583/work
 Brotli @ file:///C:/ci_311/brotli-split_1676435766766/work
 certifi @ file:///C:/b/abs_35d7n66oz9/croot/certifi_1707229248467/work/certifi
 cffi @ file:///C:/b/abs_924gv1kxzj/croot/cffi_1700254355075/work
 charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+click @ file:///C:/b/abs_f9ihnt72pu/croot/click_1698129847492/work
 colorama @ file:///C:/ci_311/colorama_1676422310965/work
 comm @ file:///C:/ci_311/comm_1678376562840/work
 contourpy @ file:///C:/b/abs_853rfy8zse/croot/contourpy_1700583617587/work
@@ -22,6 +25,7 @@ cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
 debugpy @ file:///C:/b/abs_c0y1fjipt2/croot/debugpy_1690906864587/work
 decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
 defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
+dill @ file:///C:/b/abs_084unuus3z/croot/dill_1692271268687/work
 executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
 fastjsonschema @ file:///C:/ci_311/python-fastjsonschema_1679500568724/work
 fonttools==4.25.0
@@ -29,6 +33,7 @@ idna @ file:///C:/ci_311/idna_1676424932545/work
 ipykernel @ file:///C:/b/abs_c2u94kxcy6/croot/ipykernel_1705933907920/work
 ipython @ file:///C:/b/abs_b6pfgmrqnd/croot/ipython_1704833422163/work
 ipywidgets @ file:///C:/b/abs_5awapknmz_/croot/ipywidgets_1679394824767/work
+isort @ file:///tmp/build/80754af9/isort_1628603791788/work
 jedi @ file:///C:/ci_311/jedi_1679427407646/work
 Jinja2 @ file:///C:/b/abs_f7x5a8op2h/croot/jinja2_1706733672594/work
 json5 @ file:///tmp/build/80754af9/json5_1624432770122/work
@@ -47,14 +52,17 @@ jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_16014907206
 jupyterlab-widgets @ file:///C:/b/abs_adrrqr26no/croot/jupyterlab_widgets_1700169018974/work
 jupyterlab_server @ file:///C:/b/abs_e08i7qn9m8/croot/jupyterlab_server_1699555481806/work
 kiwisolver @ file:///C:/ci_311/kiwisolver_1676431979301/work
+lazy-object-proxy @ file:///C:/ci_311/lazy-object-proxy_1676432050939/work
 MarkupSafe @ file:///C:/b/abs_ecfdqh67b_/croot/markupsafe_1704206030535/work
 matplotlib @ file:///C:/b/abs_e26vnvd5s1/croot/matplotlib-suite_1698692153288/work
 matplotlib-inline @ file:///C:/ci_311/matplotlib-inline_1676425798036/work
+mccabe @ file:///opt/conda/conda-bld/mccabe_1644221741721/work
 mistune @ file:///C:/ci_311/mistune_1676425111783/work
 mkl-fft @ file:///C:/b/abs_19i1y8ykas/croot/mkl_fft_1695058226480/work
 mkl-random @ file:///C:/b/abs_edwkj1_o69/croot/mkl_random_1695059866750/work
 mkl-service==2.4.0
 munkres==1.1.4
+mypy-extensions @ file:///C:/b/abs_8f7xiidjya/croot/mypy_extensions_1695131051147/work
 nbclient @ file:///C:/b/abs_cal0q5fyju/croot/nbclient_1698934263135/work
 nbconvert @ file:///C:/b/abs_17p29f_rx4/croot/nbconvert_1699022793097/work
 nbformat @ file:///C:/b/abs_5a2nea1iu2/croot/nbformat_1694616866197/work
@@ -69,6 +77,7 @@ packaging @ file:///C:/b/abs_28t5mcoltc/croot/packaging_1693575224052/work
 pandas @ file:///C:/b/abs_fej9bi0gew/croot/pandas_1702318041921/work/dist/pandas-2.1.4-cp311-cp311-win_amd64.whl#sha256=d3609b7cc3e3c4d99ad640a4b8e710ba93ccf967ab8e5245b91033e0200f9286
 pandocfilters @ file:///opt/conda/conda-bld/pandocfilters_1643405455980/work
 parso @ file:///opt/conda/conda-bld/parso_1641458642106/work
+pathspec @ file:///C:/ci_311/pathspec_1679427644142/work
 Pillow @ file:///C:/b/abs_20ztcm8lgk/croot/pillow_1696580089746/work
 platformdirs @ file:///C:/b/abs_b6z_yqw_ii/croot/platformdirs_1692205479426/work
 ply==3.11
@@ -80,6 +89,7 @@ pycodestyle==2.11.1
 pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
 pyerfa @ file:///C:/ci_311/pyerfa_1676503994641/work
 Pygments @ file:///C:/b/abs_fay9dpq4n_/croot/pygments_1684279990574/work
+pylint @ file:///C:/ci_311/pylint_1678740302984/work
 pyOpenSSL @ file:///C:/b/abs_08f38zyck4/croot/pyopenssl_1690225407403/work
 pyparsing @ file:///C:/ci_311/pyparsing_1678502182533/work
 PyQt5==5.15.10
@@ -110,6 +120,7 @@ terminado @ file:///C:/ci_311/terminado_1678228513830/work
 tinycss2 @ file:///C:/ci_311/tinycss2_1676425376744/work
 tokenize-rt==5.2.0
 tomli==2.0.1
+tomlkit @ file:///C:/ci_311/tomlkit_1676425418821/work
 tornado @ file:///C:/b/abs_0cbrstidzg/croot/tornado_1696937003724/work
 traitlets @ file:///C:/ci_311/traitlets_1676423290727/work
 typing_extensions @ file:///C:/b/abs_72cdotwc_6/croot/typing_extensions_1705599364138/work
@@ -120,3 +131,4 @@ webencodings==0.5.1
 websocket-client @ file:///C:/ci_311/websocket-client_1676426063281/work
 widgetsnbextension @ file:///C:/b/abs_882k4_4kdf/croot/widgetsnbextension_1679313880295/work
 win-inet-pton @ file:///C:/ci_311/win_inet_pton_1676425458225/work
+wrapt @ file:///C:/ci_311/wrapt_1676432805090/work
