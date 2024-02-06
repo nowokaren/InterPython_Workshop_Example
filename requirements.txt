@@ -5,6 +5,7 @@ astropy @ file:///C:/b/abs_2fb3x_tapx/croot/astropy_1697468987983/work
 asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
 async-lru @ file:///C:/b/abs_e0hjkvwwb5/croot/async-lru_1699554572212/work
 attrs @ file:///C:/b/abs_35n0jusce8/croot/attrs_1695717880170/work
+autopep8==2.0.4
 Babel @ file:///C:/ci_311/babel_1676427169844/work
 beautifulsoup4 @ file:///C:/b/abs_0agyz1wsr4/croot/beautifulsoup4-split_1681493048687/work
 bleach @ file:///opt/conda/conda-bld/bleach_1641577558959/work
@@ -57,6 +58,7 @@ munkres==1.1.4
 nbclient @ file:///C:/b/abs_cal0q5fyju/croot/nbclient_1698934263135/work
 nbconvert @ file:///C:/b/abs_17p29f_rx4/croot/nbconvert_1699022793097/work
 nbformat @ file:///C:/b/abs_5a2nea1iu2/croot/nbformat_1694616866197/work
+nbqa==1.7.1
 nest-asyncio @ file:///C:/ci_311/nest-asyncio_1676423519896/work
 notebook @ file:///C:/b/abs_26737osg4x/croot/notebook_1700582146311/work
 notebook_shim @ file:///C:/b/abs_a5xysln3lb/croot/notebook-shim_1699455926920/work
@@ -74,6 +76,7 @@ prometheus-client @ file:///C:/ci_311/prometheus_client_1679591942558/work
 prompt-toolkit @ file:///C:/b/abs_68uwr58ed1/croot/prompt-toolkit_1704404394082/work
 psutil @ file:///C:/ci_311_rebuilds/psutil_1679005906571/work
 pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
+pycodestyle==2.11.1
 pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
 pyerfa @ file:///C:/ci_311/pyerfa_1676503994641/work
 Pygments @ file:///C:/b/abs_fay9dpq4n_/croot/pygments_1684279990574/work
@@ -105,6 +108,8 @@ soupsieve @ file:///C:/b/abs_bbsvy9t4pl/croot/soupsieve_1696347611357/work
 stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
 terminado @ file:///C:/ci_311/terminado_1678228513830/work
 tinycss2 @ file:///C:/ci_311/tinycss2_1676425376744/work
+tokenize-rt==5.2.0
+tomli==2.0.1
 tornado @ file:///C:/b/abs_0cbrstidzg/croot/tornado_1696937003724/work
 traitlets @ file:///C:/ci_311/traitlets_1676423290727/work
 typing_extensions @ file:///C:/b/abs_72cdotwc_6/croot/typing_extensions_1705599364138/work
